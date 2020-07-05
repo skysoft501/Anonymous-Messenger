@@ -22,7 +22,7 @@ $headers = "From: $email\r\nCc: $cc\r\nBcc: $bcc\r\n" ;
  
 $headers .= "MIME-Version: 1.0\r\nContent-Type: multipart/mixed; boundary=\"_1_$boundary\"";
  
-$message="This is a multi-part message in MIME format.
+$message="border for MIME message.
  
 --_1_$boundary
 Content-Type: multipart/alternative; boundary=\"_2_$boundary\"
