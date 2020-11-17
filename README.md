@@ -1,3 +1,5 @@
+### This software program is covered by the GNU-Public License V3.0. kindly read the license file in root directory
+
 # Anonymous-Messenger
 
 There are PHP libraries that makes coding mail functionality easy
