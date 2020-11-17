@@ -18,6 +18,6 @@ and I hate dependencies! So I wrote this without any library.
 
 # *Warning*
 
- For educational purposes only. This script is hosted on my website and it works perfectly. 
- Using this script to spam or forge email is strictly prohibited. Infact, using this program outside a private onion network with an excellent, 3rd-party email server,  there's a 99.99% chance
+ For educational purposes only. This program is hosted on my server and it works perfectly. 
+ Using this program to spam or forge email is strictly prohibited. Infact, using this program outside a private onion network with an excellent, 3rd-party email server, there's a 99.99% chance
  your email will be directed to spam folder and it's very easy to trace the origin of emails sent
