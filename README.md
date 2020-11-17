@@ -14,6 +14,8 @@ and I hate dependencies! So I wrote this without any library.
 
 * Attachment: Send any file attachment of any format or size. No restrictions. 
 
+* Anonymous Mailer has been, and is still hosted on a private, onion (Tor) Network for absolute privacy. Works best this way. 
+
 # *Warning*
 
  For educational purposes only. This script is hosted on my website and it works perfectly. 
