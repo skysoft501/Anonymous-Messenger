@@ -14,10 +14,10 @@ and I hate dependencies! So I wrote this without any library.
 
 * Attachment: Send any file attachment of any format or size. No restrictions. 
 
-* Anonymous Mailer has been, and is still hosted on a private, onion (Tor) Network for absolute privacy. Works best this way. 
+* Anonymous Mailer has been, and is still hosted on a private, onion (Tor) Network for absolute privacy & with a 3rd-party email server.  Works best this way!
 
 # *Warning*
 
  For educational purposes only. This script is hosted on my website and it works perfectly. 
- Using this script to spam or forge email is strictly prohibited. Infact there's a 99.99% chance
- your email will be directed to spam folder and it's very easy to trace the originality of emails sent
+ Using this script to spam or forge email is strictly prohibited. Infact, using this program outside a private onion network with an excellent, 3rd-party email server,  there's a 99.99% chance
+ your email will be directed to spam folder and it's very easy to trace the origin of emails sent
