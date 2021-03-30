@@ -8,9 +8,11 @@ and I hate dependencies! So I wrote this without any library.
 
 # *Features*
 
-* Cc: send as many carbon copies to different email addresses. Separate each with a "space" "comma" "space".
+* Send single or bulk emails with or without file attachments. Separate each email address with a ",".
+L
+* Cc: send as many carbon copies to different email addresses. Separate each email address with a ",".
 
-* bcc: send as many blind carbon copies to different email addresses. Separate each with "space" "comma" "space"
+* bcc: send as many blind carbon copies to different email addresses. Separate each address with a ","
 
 * Attachment: Send any file attachment of any format or size. No restrictions. 
 
