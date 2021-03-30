@@ -8,8 +8,8 @@ and I hate dependencies! So I wrote this without any library.
 
 # *Features*
 
-* Send single or bulk emails with or without file attachments. Separate each email address with a ",".
-L
+* Send single or bulk emails with or without file attachments. Separate each email address with a ","
+
 * Cc: send as many carbon copies to different email addresses. Separate each email address with a ",".
 
 * bcc: send as many blind carbon copies to different email addresses. Separate each address with a ","
